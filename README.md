@@ -24,12 +24,15 @@ We are designers, devs and marketers mixed into something ✨special ✨
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://www.designbust.com/download/240/png/php_icon512.png" />
 <img align="left" alt="React" width="26px" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" />
-<br/>
+
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
 <img align="left" alt="React" width="26px" src="https://i0.wp.com/gkibria.com/wp-content/uploads/2018/08/laravel-logo.png" />
 <img align="left" alt="React" width="26px" src="https://denolib.github.io/high-res-deno-logo/deno_hr.png" />
-<br/>
+
+
+
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
