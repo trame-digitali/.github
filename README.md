@@ -6,7 +6,7 @@ We are designers, devs and marketers mixed into something ✨special ✨
 - 🌱 Stiamo crescendo e coltivando la nostra agenzia e il nostro team come una [piantina](https://www.treedom.net/it/organization/trame-digitali). 
 - 👯 Ci piace collaborare con altri pazzi come noi. Non essere timido, fatti avanti
 - 💬 Chiedici qualsiasi cosa [qui](https://github.com/trame-digitali/.github/issues) riguardo a <b>sviluppo web</b> con react, python e php, ma anche sistemi, integrazioni e come tirare su progetti jam stack. Davvero, non disturbi.
-- 📫 Come contattarci: passa a trovarci 👋 in Via Frà Bartolomeo 82/a, 59100, Prato oppure scrivici una email 📧 a [Trame Digitali](mailto:info@trame-digitali.it)
+- 📫 Come contattarci: passa a trovarci a <b>Prato</b> 👋 in Via Frà Bartolomeo 82/a oppure scrivici una email 📧 a [Trame Digitali](mailto:info@trame-digitali.it)
 - ⚡ Fun facts: beverdì, focus room, arcade, non timbriamo il cartellino.
 
 ### Rimani connesso con noi:
@@ -19,7 +19,7 @@ We are designers, devs and marketers mixed into something ✨special ✨
 [<img align="left" alt="tramedigitali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
-### Languages and Tools:
+### Linguaggi e strumenti:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://www.designbust.com/download/240/png/php_icon512.png" />
