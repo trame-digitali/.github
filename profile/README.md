@@ -1,11 +1,12 @@
-# Benvenuto in Trame Digitali, fullstack web agency. Headless per vocazione. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Benvenuto in Trame Digitali, fullstack web agency. <br /> Headless per vocazione. 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 We are designers, devs and marketers mixed into something ✨special ✨
 
 
 - 🔭 Lavoriamo solo su progetti fighi 😉
 - 🌱 Stiamo crescendo e coltivando la nostra agenzia e il nostro team come una [piantina](https://www.treedom.net/it/organization/trame-digitali). 
 - 👯 Ci piace collaborare con altri pazzi come noi. Non essere timido, fatti avanti
-- 💬 Chiedici qualsiasi cosa [qui](https://github.com/trame-digitali/.github/issues) riguardo a <b>sviluppo web</b> con react, python e php, ma anche sistemi, integrazioni e come tirare su progetti jam stack. Davvero, non disturbi.
+- 💬 Chiedici qualsiasi cosa [qui](https://github.com/trame-digitali/.github/issues) riguardo a <b>sviluppo web</b> con react, python e php, ma anche sistemi, integrazioni e come tirare su progetti jam stack.
 - 📫 Come contattarci: passa a trovarci a <b>Prato</b> 👋 in Via Frà Bartolomeo 82/a oppure scrivici una email 📧 a [Trame Digitali](mailto:info@trame-digitali.it)
 - ⚡ Fun facts: beverdì, focus room, arcade, non timbriamo il cartellino.
 
