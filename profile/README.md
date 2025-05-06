@@ -12,24 +12,25 @@ Siamo designers, devs e marketers mixati in qualcosa di ✨speciale ✨
 
 ### Rimani connesso con noi:
 
-[<img align="left" alt="Trame Digitali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="tramedigitali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="trame-digitali | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]
-[<img align="left" alt="www.trame-digitali.it | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="tramedigitali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[<img align="left" alt="tramedigitali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
+<img align="left" alt="Trame Digitali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="tramedigitali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="trame-digitali | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="www.trame-digitali.it | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="tramedigitali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="tramedigitali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
+<br />
 
 ### Linguaggi e strumenti:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://www.designbust.com/download/240/png/php_icon512.png" />
-<img align="left" alt="React" width="26px" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" />
+<img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/php-logo-bigger.png" />
+<img align="left" alt="Python" width="26px" src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" />
 
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
-<img align="left" alt="React" width="26px" src="https://i0.wp.com/gkibria.com/wp-content/uploads/2018/08/laravel-logo.png" />
-<img align="left" alt="React" width="26px" src="https://denolib.github.io/high-res-deno-logo/deno_hr.png" />
+<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+<img align="left" alt="Deno" width="26px" src="https://denolib.github.io/high-res-deno-logo/deno_hr.png" />
 
 
 
