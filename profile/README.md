@@ -1,6 +1,6 @@
 # Benvenuto in Trame Digitali, fullstack web agency. <br /> Headless per vocazione. 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Siamo designers, devs e marketers mixati in qualcosa di ✨speciale ✨
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Siamo designers, devs e marketers mixati in qualcosa di ✨speciale ✨
+
 
 
 - 🔭 Lavoriamo solo su progetti fighi 😉
